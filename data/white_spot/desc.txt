@@ -1,0 +1,1 @@
+Detect white spots in a 50x50 image
