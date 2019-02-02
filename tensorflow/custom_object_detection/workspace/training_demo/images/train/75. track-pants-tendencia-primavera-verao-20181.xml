@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>all</folder>
+	<filename>75. track-pants-tendencia-primavera-verao-20181.jpg</filename>
+	<path>/home/joao/Projects/computer-vision-tests/tensorflow/custom_object_detection/workspace/training_demo/images/all/75. track-pants-tendencia-primavera-verao-20181.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>563</width>
+		<height>845</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>feet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>155</xmin>
+			<ymin>665</ymin>
+			<xmax>406</xmax>
+			<ymax>795</ymax>
+		</bndbox>
+	</object>
+</annotation>

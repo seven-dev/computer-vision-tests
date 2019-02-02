@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>all</folder>
+	<filename>91. person-walking-with-a-steady-gait-around-running-track-outdoors-in-sports-clothes.jpg</filename>
+	<path>/home/joao/Projects/computer-vision-tests/tensorflow/custom_object_detection/workspace/training_demo/images/all/91. person-walking-with-a-steady-gait-around-running-track-outdoors-in-sports-clothes.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1100</width>
+		<height>734</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>feet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>229</xmin>
+			<ymin>453</ymin>
+			<xmax>554</xmax>
+			<ymax>669</ymax>
+		</bndbox>
+	</object>
+</annotation>

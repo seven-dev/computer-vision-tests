@@ -1,0 +1,38 @@
+<annotation verified="yes">
+	<folder>all</folder>
+	<filename>77. image?url=https%3a%2f%2fpeopledotcom.files.wordpress.com%2f2018%2f05%2fbeckhams-1-20001.jpg%3fw%3d450&amp;w=450&amp;c=sc&amp;poi=face&amp;q=85.jpg</filename>
+	<path>/home/joao/Projects/computer-vision-tests/tensorflow/custom_object_detection/workspace/training_demo/images/all/77. image?url=https%3a%2f%2fpeopledotcom.files.wordpress.com%2f2018%2f05%2fbeckhams-1-20001.jpg%3fw%3d450&amp;w=450&amp;c=sc&amp;poi=face&amp;q=85.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>675</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>feet</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>249</xmin>
+			<ymin>571</ymin>
+			<xmax>424</xmax>
+			<ymax>675</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>feet</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>58</xmin>
+			<ymin>603</ymin>
+			<xmax>234</xmax>
+			<ymax>675</ymax>
+		</bndbox>
+	</object>
+</annotation>

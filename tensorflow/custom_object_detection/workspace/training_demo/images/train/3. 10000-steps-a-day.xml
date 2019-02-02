@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>all</folder>
+	<filename>3. 10000-steps-a-day.jpg</filename>
+	<path>/home/joao/Projects/computer-vision-tests/tensorflow/custom_object_detection/workspace/training_demo/images/all/3. 10000-steps-a-day.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>968</width>
+		<height>681</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>feet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>433</xmin>
+			<ymin>241</ymin>
+			<xmax>617</xmax>
+			<ymax>455</ymax>
+		</bndbox>
+	</object>
+</annotation>

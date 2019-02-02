@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>all</folder>
+	<filename>39. adidas-originals-jogging-pants-calcas-de-jogging-adidas-originals-beckenbauer-tp-black.jpg</filename>
+	<path>/home/joao/Projects/computer-vision-tests/tensorflow/custom_object_detection/workspace/training_demo/images/all/39. adidas-originals-jogging-pants-calcas-de-jogging-adidas-originals-beckenbauer-tp-black.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>feet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>117</xmin>
+			<ymin>163</ymin>
+			<xmax>184</xmax>
+			<ymax>277</ymax>
+		</bndbox>
+	</object>
+</annotation>

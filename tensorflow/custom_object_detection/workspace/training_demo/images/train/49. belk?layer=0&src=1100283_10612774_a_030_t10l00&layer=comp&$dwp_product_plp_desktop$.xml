@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>all</folder>
+	<filename>49. belk?layer=0&amp;src=1100283_10612774_a_030_t10l00&amp;layer=comp&amp;$dwp_product_plp_desktop$.jpg</filename>
+	<path>/home/joao/Projects/computer-vision-tests/tensorflow/custom_object_detection/workspace/training_demo/images/all/49. belk?layer=0&amp;src=1100283_10612774_a_030_t10l00&amp;layer=comp&amp;$dwp_product_plp_desktop$.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>216</width>
+		<height>307</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>feet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>227</ymin>
+			<xmax>122</xmax>
+			<ymax>303</ymax>
+		</bndbox>
+	</object>
+</annotation>

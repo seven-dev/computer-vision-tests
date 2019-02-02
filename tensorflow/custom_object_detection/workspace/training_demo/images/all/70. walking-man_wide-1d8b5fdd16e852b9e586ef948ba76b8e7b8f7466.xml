@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>all</folder>
+	<filename>70. walking-man_wide-1d8b5fdd16e852b9e586ef948ba76b8e7b8f7466.jpg</filename>
+	<path>/home/joao/Projects/computer-vision-tests/tensorflow/custom_object_detection/workspace/training_demo/images/all/70. walking-man_wide-1d8b5fdd16e852b9e586ef948ba76b8e7b8f7466.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1400</width>
+		<height>787</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>feet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>714</xmin>
+			<ymin>625</ymin>
+			<xmax>893</xmax>
+			<ymax>770</ymax>
+		</bndbox>
+	</object>
+</annotation>

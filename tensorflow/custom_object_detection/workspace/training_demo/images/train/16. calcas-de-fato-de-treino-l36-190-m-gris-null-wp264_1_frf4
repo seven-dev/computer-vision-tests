@@ -1,0 +1,26 @@
+<annotation>
+	<folder>all</folder>
+	<filename>16. calcas-de-fato-de-treino-l36-190-m-gris-null-wp264_1_frf4.jpg</filename>
+	<path>/home/joao/Projects/computer-vision-tests/tensorflow/custom_object_detection/workspace/training_demo/images/all/16. calcas-de-fato-de-treino-l36-190-m-gris-null-wp264_1_frf4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>501</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>feet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>337</ymin>
+			<xmax>402</xmax>
+			<ymax>653</ymax>
+		</bndbox>
+	</object>
+</annotation>

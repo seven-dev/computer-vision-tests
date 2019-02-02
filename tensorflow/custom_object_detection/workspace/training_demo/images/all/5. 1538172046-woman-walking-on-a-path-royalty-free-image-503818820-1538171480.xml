@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>all</folder>
+	<filename>5. 1538172046-woman-walking-on-a-path-royalty-free-image-503818820-1538171480.jpg</filename>
+	<path>/home/joao/Projects/computer-vision-tests/tensorflow/custom_object_detection/workspace/training_demo/images/all/5. 1538172046-woman-walking-on-a-path-royalty-free-image-503818820-1538171480.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2153</width>
+		<height>1392</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>feet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>889</xmin>
+			<ymin>222</ymin>
+			<xmax>1468</xmax>
+			<ymax>1064</ymax>
+		</bndbox>
+	</object>
+</annotation>

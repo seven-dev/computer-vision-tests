@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>all</folder>
+	<filename>79. calcas-fato-de-treino-adidas-tamanhos-grandes-adidas-performance-preto-rosa.jpg</filename>
+	<path>/home/joao/Projects/computer-vision-tests/tensorflow/custom_object_detection/workspace/training_demo/images/all/79. calcas-fato-de-treino-adidas-tamanhos-grandes-adidas-performance-preto-rosa.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>242</width>
+		<height>322</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>feet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>238</ymin>
+			<xmax>214</xmax>
+			<ymax>316</ymax>
+		</bndbox>
+	</object>
+</annotation>

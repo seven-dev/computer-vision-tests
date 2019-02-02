@@ -1,0 +1,38 @@
+<annotation verified="yes">
+	<folder>all</folder>
+	<filename>42. walking-elderly_wide-ee419df4ccf63bd563171e5292f3f94a47075055.jpg</filename>
+	<path>/home/joao/Projects/computer-vision-tests/tensorflow/custom_object_detection/workspace/training_demo/images/all/42. walking-elderly_wide-ee419df4ccf63bd563171e5292f3f94a47075055.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1400</width>
+		<height>786</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>feet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>707</xmin>
+			<ymin>678</ymin>
+			<xmax>832</xmax>
+			<ymax>760</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>feet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>507</xmin>
+			<ymin>639</ymin>
+			<xmax>633</xmax>
+			<ymax>760</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>all</folder>
+	<filename>8. calcas-de-fato-regular-em-twill-azul-naval-homem-do-s-ate-xxl-ti549_2_fr1.jpg</filename>
+	<path>/home/joao/Projects/computer-vision-tests/tensorflow/custom_object_detection/workspace/training_demo/images/all/8. calcas-de-fato-regular-em-twill-azul-naval-homem-do-s-ate-xxl-ti549_2_fr1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>350</width>
+		<height>461</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>feet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>347</ymin>
+			<xmax>294</xmax>
+			<ymax>449</ymax>
+		</bndbox>
+	</object>
+</annotation>

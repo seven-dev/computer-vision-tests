@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>all</folder>
+	<filename>57. male-businessman-worker-black-suit-shirt-sunglasses-hands-pockets-walking-oute-street-park-summer-day-walk-111602124.jpg</filename>
+	<path>/home/joao/Projects/computer-vision-tests/tensorflow/custom_object_detection/workspace/training_demo/images/all/57. male-businessman-worker-black-suit-shirt-sunglasses-hands-pockets-walking-oute-street-park-summer-day-walk-111602124.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>957</width>
+		<height>1300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>feet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>339</xmin>
+			<ymin>1011</ymin>
+			<xmax>498</xmax>
+			<ymax>1117</ymax>
+		</bndbox>
+	</object>
+</annotation>

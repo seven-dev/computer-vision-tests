@@ -1,0 +1,26 @@
+<annotation>
+	<folder>all</folder>
+	<filename>13. walking_news.jpg</filename>
+	<path>/home/joao/Projects/computer-vision-tests/tensorflow/custom_object_detection/workspace/training_demo/images/all/13. walking_news.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>feet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>361</xmin>
+			<ymin>251</ymin>
+			<xmax>513</xmax>
+			<ymax>358</ymax>
+		</bndbox>
+	</object>
+</annotation>

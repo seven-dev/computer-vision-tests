@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>all</folder>
+	<filename>99. 10311432-1-grey?$xl$?$xxl$&amp;wid=300&amp;fmt=jpeg&amp;qlt=80,0&amp;op_sharpen=0&amp;resmode=sharp2&amp;op_usm=1,0.4,6,1&amp;iccembed=0&amp;printres=72.jpg</filename>
+	<path>/home/joao/Projects/computer-vision-tests/tensorflow/custom_object_detection/workspace/training_demo/images/all/99. 10311432-1-grey?$xl$?$xxl$&amp;wid=300&amp;fmt=jpeg&amp;qlt=80,0&amp;op_sharpen=0&amp;resmode=sharp2&amp;op_usm=1,0.4,6,1&amp;iccembed=0&amp;printres=72.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>383</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>feet</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>341</ymin>
+			<xmax>225</xmax>
+			<ymax>383</ymax>
+		</bndbox>
+	</object>
+</annotation>

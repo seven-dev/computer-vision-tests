@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>all</folder>
+	<filename>60. big%20discounts%20floral%20print%20long%20sleeves%20womens%20casual%20pants%20suit%20pink%2013063935.jpeg</filename>
+	<path>/home/joao/Projects/computer-vision-tests/tensorflow/custom_object_detection/workspace/training_demo/images/all/60. big%20discounts%20floral%20print%20long%20sleeves%20womens%20casual%20pants%20suit%20pink%2013063935.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>405</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>feet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>169</xmin>
+			<ymin>465</ymin>
+			<xmax>240</xmax>
+			<ymax>535</ymax>
+		</bndbox>
+	</object>
+</annotation>

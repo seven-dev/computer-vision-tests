@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>all</folder>
+	<filename>84. 0039_03901981_1981?cache=on&amp;wid=361&amp;fmt=jpeg&amp;qlt=75,1&amp;resmode=sharp2&amp;op_usm=1,1,5,0&amp;defaultimage=photo-coming-soon.jpg</filename>
+	<path>/home/joao/Projects/computer-vision-tests/tensorflow/custom_object_detection/workspace/training_demo/images/all/84. 0039_03901981_1981?cache=on&amp;wid=361&amp;fmt=jpeg&amp;qlt=75,1&amp;resmode=sharp2&amp;op_usm=1,1,5,0&amp;defaultimage=photo-coming-soon.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>361</width>
+		<height>452</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>feet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>101</xmin>
+			<ymin>363</ymin>
+			<xmax>173</xmax>
+			<ymax>445</ymax>
+		</bndbox>
+	</object>
+</annotation>

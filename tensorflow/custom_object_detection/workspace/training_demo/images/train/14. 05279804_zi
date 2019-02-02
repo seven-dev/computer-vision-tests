@@ -1,0 +1,26 @@
+<annotation>
+	<folder>all</folder>
+	<filename>14. 05279804_zi.jpg</filename>
+	<path>/home/joao/Projects/computer-vision-tests/tensorflow/custom_object_detection/workspace/training_demo/images/all/14. 05279804_zi.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1760</width>
+		<height>2040</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>feet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>520</xmin>
+			<ymin>1680</ymin>
+			<xmax>1150</xmax>
+			<ymax>2023</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>all</folder>
+	<filename>86. calcas_de_fato_de_treino_anichkov_vermelho_bs2221_21_model.jpg</filename>
+	<path>/home/joao/Projects/computer-vision-tests/tensorflow/custom_object_detection/workspace/training_demo/images/all/86. calcas_de_fato_de_treino_anichkov_vermelho_bs2221_21_model.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>feet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>149</xmin>
+			<ymin>465</ymin>
+			<xmax>459</xmax>
+			<ymax>581</ymax>
+		</bndbox>
+	</object>
+</annotation>

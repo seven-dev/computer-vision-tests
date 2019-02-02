@@ -1,0 +1,38 @@
+<annotation verified="yes">
+	<folder>all</folder>
+	<filename>89. 97249361-happy-couple-business-man-and-business-woman-wear-black-suit-walk-together-with-luggage-and-hold-pas.jpg</filename>
+	<path>/home/joao/Projects/computer-vision-tests/tensorflow/custom_object_detection/workspace/training_demo/images/all/89. 97249361-happy-couple-business-man-and-business-woman-wear-black-suit-walk-together-with-luggage-and-hold-pas.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>866</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>feet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>173</xmin>
+			<ymin>693</ymin>
+			<xmax>358</xmax>
+			<ymax>837</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>feet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>314</xmin>
+			<ymin>673</ymin>
+			<xmax>546</xmax>
+			<ymax>810</ymax>
+		</bndbox>
+	</object>
+</annotation>

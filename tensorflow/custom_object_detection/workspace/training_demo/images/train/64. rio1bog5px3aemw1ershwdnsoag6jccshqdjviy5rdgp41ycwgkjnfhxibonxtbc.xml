@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>all</folder>
+	<filename>64. rio1bog5px3aemw1ershwdnsoag6jccshqdjviy5rdgp41ycwgkjnfhxibonxtbc.jpeg</filename>
+	<path>/home/joao/Projects/computer-vision-tests/tensorflow/custom_object_detection/workspace/training_demo/images/all/64. rio1bog5px3aemw1ershwdnsoag6jccshqdjviy5rdgp41ycwgkjnfhxibonxtbc.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>853</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>feet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>193</xmin>
+			<ymin>674</ymin>
+			<xmax>677</xmax>
+			<ymax>987</ymax>
+		</bndbox>
+	</object>
+</annotation>

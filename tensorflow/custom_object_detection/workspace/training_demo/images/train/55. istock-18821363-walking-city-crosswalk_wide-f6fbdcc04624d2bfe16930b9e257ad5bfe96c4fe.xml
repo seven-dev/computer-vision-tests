@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>all</folder>
+	<filename>55. istock-18821363-walking-city-crosswalk_wide-f6fbdcc04624d2bfe16930b9e257ad5bfe96c4fe.jpg</filename>
+	<path>/home/joao/Projects/computer-vision-tests/tensorflow/custom_object_detection/workspace/training_demo/images/all/55. istock-18821363-walking-city-crosswalk_wide-f6fbdcc04624d2bfe16930b9e257ad5bfe96c4fe.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1400</width>
+		<height>787</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>feet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>151</xmin>
+			<ymin>305</ymin>
+			<xmax>859</xmax>
+			<ymax>503</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>all</folder>
+	<filename>12. walking-guides.jpeg</filename>
+	<path>/home/joao/Projects/computer-vision-tests/tensorflow/custom_object_detection/workspace/training_demo/images/all/12. walking-guides.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1800</width>
+		<height>1013</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>feet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>761</xmin>
+			<ymin>411</ymin>
+			<xmax>1330</xmax>
+			<ymax>980</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>all</folder>
+	<filename>48. calcas-fato-de-treino-homem-em-moletao-a-imitar-ganga-azul.jpg</filename>
+	<path>/home/joao/Projects/computer-vision-tests/tensorflow/custom_object_detection/workspace/training_demo/images/all/48. calcas-fato-de-treino-homem-em-moletao-a-imitar-ganga-azul.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>242</width>
+		<height>322</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>feet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>228</ymin>
+			<xmax>180</xmax>
+			<ymax>315</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>all</folder>
+	<filename>61. franklin%20marshall%20bendigo%20branco%20joggings%20roupas%20de%20treino%20-%20textil%20cal%20as%20de%20fato%20de%20treino%20mulher%2057605863.jpg</filename>
+	<path>/home/joao/Projects/computer-vision-tests/tensorflow/custom_object_detection/workspace/training_demo/images/all/61. franklin%20marshall%20bendigo%20branco%20joggings%20roupas%20de%20treino%20-%20textil%20cal%20as%20de%20fato%20de%20treino%20mulher%2057605863.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>feet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>203</xmin>
+			<ymin>516</ymin>
+			<xmax>355</xmax>
+			<ymax>598</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>all</folder>
+	<filename>79. h-d-2018-african-women-clothing-african-traditional-set-riche-bazin-embroidery-design-dresses-blue-black_3_1024x1024.jpg</filename>
+	<path>/home/joao/Projects/computer-vision-tests/tensorflow/custom_object_detection/workspace/training_demo/images/all/79. h-d-2018-african-women-clothing-african-traditional-set-riche-bazin-embroidery-design-dresses-blue-black_3_1024x1024.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>feet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>302</xmin>
+			<ymin>657</ymin>
+			<xmax>510</xmax>
+			<ymax>780</ymax>
+		</bndbox>
+	</object>
+</annotation>

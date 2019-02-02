@@ -1,0 +1,38 @@
+<annotation verified="yes">
+	<folder>all</folder>
+	<filename>32. maternity-pants-suit-maternity-cape-blazer-maternity-wear-baby-shower-photo-prop-maternity-pants-set-cape-gender-reveal-outfit-prego.jpg</filename>
+	<path>/home/joao/Projects/computer-vision-tests/tensorflow/custom_object_detection/workspace/training_demo/images/all/32. maternity-pants-suit-maternity-cape-blazer-maternity-wear-baby-shower-photo-prop-maternity-pants-set-cape-gender-reveal-outfit-prego.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>feet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>296</ymin>
+			<xmax>166</xmax>
+			<ymax>389</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>feet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>192</xmin>
+			<ymin>337</ymin>
+			<xmax>294</xmax>
+			<ymax>386</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>all</folder>
+	<filename>29. guest_ec69e626-e349-443f-a0cf-49514b162694?wid=488&amp;hei=488&amp;fmt=pjpeg.jpg</filename>
+	<path>/home/joao/Projects/computer-vision-tests/tensorflow/custom_object_detection/workspace/training_demo/images/all/29. guest_ec69e626-e349-443f-a0cf-49514b162694?wid=488&amp;hei=488&amp;fmt=pjpeg.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>488</width>
+		<height>488</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>feet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>195</xmin>
+			<ymin>329</ymin>
+			<xmax>354</xmax>
+			<ymax>451</ymax>
+		</bndbox>
+	</object>
+</annotation>
