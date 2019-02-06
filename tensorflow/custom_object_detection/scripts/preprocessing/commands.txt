@@ -1,0 +1,1 @@
+python generate_tfrecord.py --label=feet --csv_input=../../workspace/training_demo/annotations/train_labels.csv --img_path=../../workspace/training_demo/images/train  --output_path=../../workspace/training_demo/annotations/train.record
